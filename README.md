@@ -1,7 +1,12 @@
 # NASA-Nearset-Earth-Objects
 
 This notebook is taken from: 
+
 https://www.kaggle.com/code/elnahas/nasa-nearest-earth-objects
+
+and
+
+https://www.kaggle.com/code/suhanshubhattacharya/logistic-regression-decisiontree-randomforest/notebook
 
 
 ![NASA LOGOO](https://user-images.githubusercontent.com/74653444/177561244-6251c27b-fbb0-4064-bd00-c5efadceb734.png)
